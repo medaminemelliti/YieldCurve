@@ -6,6 +6,8 @@ interpolation, Nelson-Siegel fitting and TC benchmark comparison.
 
 Full methodology: [Medium article](https://medium.com/@medaminemelliti/building-tunisias-yield-curve-from-scratch-bootstrapping-interpolation-tc-benchmark-d68e397df9ce)
 
+![ZC Curve](results/zc_curve.png)
+
 ## What it does
 
 - Loads daily bond data (BTCTs + BTAs) from Tunisie Clearing
