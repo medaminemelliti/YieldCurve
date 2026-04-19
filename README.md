@@ -4,9 +4,10 @@ Reconstructing the Tunisian zero coupon yield curve from scratch using
 publicly available Tunisie Clearing data, bootstrapping, log-linear 
 interpolation, Nelson-Siegel fitting and TC benchmark comparison.
 
-Full methodology: [Medium article](https://medium.com/@medaminemelliti/building-tunisias-yield-curve-from-scratch-bootstrapping-interpolation-tc-benchmark-d68e397df9ce)
-
 ![ZC Curve](results/zc_curve.PNG)
+
+
+Full methodology: [Medium article](https://medium.com/@medaminemelliti/building-tunisias-yield-curve-from-scratch-bootstrapping-interpolation-tc-benchmark-d68e397df9ce)
 
 ## What it does
 
